@@ -1,0 +1,95 @@
+.bg-bg {
+    background-color: rgb(24 26 32 / 1);
+}
+
+.text-neutral-200 {
+    color: rgb(229 229 229 / 1);
+}
+
+.flex {
+    display: flex;
+}
+
+.h-screen {
+    height: 100vh;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.block {
+    display: block;
+}
+
+.text-\[350px\] {
+    font-size: 350px;
+}
+
+
+.leading-\[400px\] {
+    line-height: 400px;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-\[25px\] {
+    font-size: 25px;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
+
+.text-\[30px\] {
+    font-size: 30px;
+}
+
+.text-brand {
+    color: rgb(255 130 0 / 1);
+}
+
+.w-\[500px\] {
+    width: 500px;
+}
+
+.aspect-square {
+    aspect-ratio: 1 / 1;
+}
+
+.object-contain {
+    object-fit: contain;
+}
+
+
+.h-\[500px\] {
+    height: 500px;
+}
+
+
+.text-\[250px\] {
+    font-size: 250px;
+}
+
+.leading-\[250px\] {
+    line-height: 250px;
+}
+
+.text-end {
+    text-align: end;
+}
